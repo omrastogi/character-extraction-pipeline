@@ -1,0 +1,35 @@
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore dataset storage (keep directory structure)
+data/*
+!data/.gitkeep
+
+# Ignore trained models
+models/*
+!models/.gitkeep
+
+# Ignore logs and cache files
+logs/
+*.log
+
+# Ignore temporary and backup files
+*.bak
+*.swp
+*.swo
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore Conda environment files
+*.lock
