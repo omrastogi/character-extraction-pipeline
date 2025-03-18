@@ -1,0 +1,315 @@
+input - 1.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Gender": "female",
+        "Ethnicity": "Asian",
+        "Hair Color": "brown",
+        "Hair Style": "curly",
+        "Hair Length": "long",
+        "Eye Color": "brown",
+        "Body Type": "average",
+        "Dress & Clothing": "casual",
+        "Facial Expression": "sad",
+        "Accessories & Unique Traits": "none"
+    }
+}
+time - 17.56 seconds
+acc - 8/12
+
+
+input - 2.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Gender": "female",
+        "Ethnicity": "Asian",
+        "Hair Color": "blonde",
+        "Hair Style": "ponytail",
+        "Hair Length": "long",
+        "Eye Color": "brown",
+        "Body Type": "average",
+        "Dress & Clothing": "formal",
+        "Facial Expression": "neutral",
+        "Accessories & Unique Traits": "none"
+    }
+}
+time - 15.09 seconds
+acc - 9/12 
+
+input - 3.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Gender": "female",
+        "Ethnicity": "Asian",
+        "Hair Color": "brown",
+        "Hair Style": "ponytail",
+        "Hair Length": "long",
+        "Eye Color": "brown",
+        "Body Type": "average",
+        "Dress & Clothing": "formal",
+        "Facial Expression": "neutral",
+        "Accessories & Unique Traits": "none"
+    }
+}
+time - 14.43 seconds
+acc - 8/12
+
+input - 4.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Gender": "female",
+        "Ethnicity": "Asian",
+        "Hair Color": "brown",
+        "Hair Style": "ponytail",
+        "Hair Length": "medium",
+        "Eye Color": "red",
+        "Body Type": "average",
+        "Dress & Clothing": "formal",
+        "Facial Expression": "neutral",
+        "Accessories & Unique Traits": "none"
+    }
+}
+time - 13.11 seconds
+acc - 10/12
+
+input - 5.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Gender": "female",
+        "Ethnicity": "Asian",
+        "Hair Color": "blonde",
+        "Hair Style": "ponytail",
+        "Hair Length": "long",
+        "Eye Color": "brown",
+        "Body Type": "average",
+        "Dress & Clothing": "formal",
+        "Facial Expression": "neutral",
+        "Accessories & Unique Traits": "none"
+    }
+}
+time - 13.75 seconds
+acc - 9/12
+
+input - 6.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Gender": "male",
+        "Ethnicity": "Asian",
+        "Hair Color": "brown",
+        "Hair Style": "ponytail",
+        "Hair Length": "medium",
+        "Eye Color": "brown",
+        "Body Type": "average",
+        "Dress & Clothing": "formal",
+        "Facial Expression": "sad",
+        "Accessories & Unique Traits": "none"
+    }
+}
+time - 9.75 seconds
+acc - 11/12
+
+input - 7.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "child",
+        "Gender": "male",
+        "Ethnicity": "Caucasian",
+        "Hair Color": "brown",
+        "Hair Style": "ponytail",
+        "Hair Length": "medium",
+        "Eye Color": "red",
+        "Body Type": "average",
+        "Dress & Clothing": "formal",
+        "Facial Expression": "surprised",
+        "Accessories & Unique Traits": "none"
+    }
+}
+time - 11.79 seconds
+acc - 9/12 
+
+input - 8.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Gender": "female",
+        "Ethnicity": "Asian",
+        "Hair Color": "brown",
+        "Hair Style": "ponytail",
+        "Hair Length": "medium",
+        "Eye Color": "brown",
+        "Body Type": "average",
+        "Dress & Clothing": "formal",
+        "Facial Expression": "neutral",
+        "Accessories & Unique Traits": "none"
+    }
+}
+time - 13.11 seconds
+acc - 10/12
+
+input - 9.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "elderly",
+        "Gender": "female",
+        "Ethnicity": "Caucasian",
+        "Hair Color": "gray",
+        "Hair Style": "short bob",
+        "Hair Length": "long",
+        "Eye Color": "brown",
+        "Body Type": "average",
+        "Dress & Clothing": "traditional",
+        "Facial Expression": "sad",
+        "Accessories & Unique Traits": "none"
+    }
+}
+time - 9.58 seconds
+acc - 11/12 
+# The Age is right here
+
+input - 10.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime, cartoon, semi-realistic, realistic, 3D-rendered",
+        "Age": "young adult",
+        "Gender": "female",
+        "Ethnicity": "Asian",
+        "Hair Color": "brown",
+        "Hair Style": "ponytail",
+        "Hair Length": "long",
+        "Eye Color": "brown",
+        "Body Type": "average",
+        "Dress & Clothing": "uniform",
+        "Facial Expression": "neutral",
+        "Accessories & Unique Traits": "none"
+    }
+}
+time - 16.44 seconds
+acc - 12/12
+
+input - 11.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime, cartoon, semi-realistic, realistic, 3D-rendered",
+        "Age": "young adult",
+        "Gender": "female",
+        "Ethnicity": "Asian",
+        "Hair Color": "brown",
+        "Hair Style": "ponytail",
+        "Hair Length": "long",
+        "Eye Color": "brown",
+        "Body Type": "average",
+        "Dress & Clothing": "uniform",
+        "Facial Expression": "neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral, neutral,",
+        "Accessories & Unique Traits": "none"
+    }
+}
+time - 31.6 seconds
+acc - 7/12
+
+input - 12.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Gender": "female",
+        "Ethnicity": "Asian",
+        "Hair Color": "black",
+        "Hair Style": "ponytail",
+        "Hair Length": "long",
+        "Eye Color": "brown",
+        "Body Type": "average",
+        "Dress & Clothing": "formal",
+        "Facial Expression": "neutral",
+        "Accessories & Unique Traits": "none"
+    }
+}
+time - 12.35 seconds
+acc - 10/12 
+
+input - 13.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Gender": "female",
+        "Ethnicity": "Asian",
+        "Hair Color": "black",
+        "Hair Style": "ponytail",
+        "Hair Length": "medium",
+        "Eye Color": "black",
+        "Body Type": "average",
+        "Dress & Clothing": "traditional",
+        "Facial Expression": "neutral",
+        "Accessories & Unique Traits": "none"
+    }
+}
+time - 13.8 seconds
+acc - 9/12
+input - 14.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Gender": "male",
+        "Ethnicity": "Asian",
+        "Hair Color": "black",
+        "Hair Style": "ponytail",
+        "Hair Length": "long",
+        "Eye Color": "brown",
+        "Body Type": "muscular",
+        "Dress & Clothing": "formal",
+        "Facial Expression": "neutral",
+        "Accessories & Unique Traits": "none"
+    }
+}
+time - 13.24 seconds
+acc - 10/12
+
+input - 15.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Gender": "female",
+        "Ethnicity": "Asian",
+        "Hair Color": "red",
+        "Hair Style": "ponytail",
+        "Hair Length": "long",
+        "Eye Color": "brown",
+        "Body Type": "average",
+        "Dress & Clothing": "casual",
+        "Facial Expression": "neutral",
+        "Accessories & Unique Traits": "none"
+    }
+}
+time - 14.52 seconds
+acc - 7/12 

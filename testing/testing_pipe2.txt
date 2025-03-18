@@ -1,0 +1,321 @@
+input - 1.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Ethnicity": "Asian",
+        "Hair Color": "brown",
+        "Body Type": "average",
+        "Facial Expression": "neutral",
+        "Gender": "1girl",
+        "Hair Length": "long_hair",
+        "Eyes": "blue_eyes",
+        "Dress & Clothing": "swimsuit",
+        "Accessories & Unique Traits": "necklace",
+        "Hair Style": "ahoge"
+    }
+}
+time - 10.81 seconds
+acc - 10/12 
+# Not sure if the hair is ahoge
+
+input - 2.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Ethnicity": "Caucasian",
+        "Body Type": "average",
+        "Dress & Clothing": "formal",
+        "Facial Expression": "neutral",
+        "Gender": "1girl",
+        "Hair Color": "blonde_hair",
+        "Accessories & Unique Traits": "hat",
+        "Eyes": "green_eyes",
+        "Hair Length": "short_hair",
+        "Hair Style": "bangs"
+    }
+}
+time - 8.01 seconds
+acc - 11/12 
+# Dress:- Seems like a semi-formal  
+# Not sure if body type is average
+
+input - 3.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Ethnicity": "Caucasian",
+        "Facial Expression": "neutral",
+        "Accessories & Unique Traits": "none",
+        "Gender": "1girl",
+        "Hair Length": "long_hair",
+        "Hair Color": "blonde_hair",
+        "Eyes": "red_eyes",
+        "Body Type": "large_breasts",
+        "Hair Style": "bangs",
+        "Dress & Clothing": "jacket"
+    }
+}
+time - 9.38 seconds
+acc - 11/12
+# Not a caucasian, but asian
+
+input - 4.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Ethnicity": "Caucasian",
+        "Hair Color": "brown",
+        "Hair Style": "short bob",
+        "Dress & Clothing": "formal",
+        "Facial Expression": "neutral",
+        "Accessories & Unique Traits": "none",
+        "Gender": "1girl",
+        "Hair Length": "short_hair",
+        "Body Type": "large_breasts"
+    }
+}
+time - 7.97 seconds
+acc - 8/12 
+# Main issues due to the shading of the image
+
+input - 5.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Ethnicity": "Caucasian",
+        "Body Type": "average",
+        "Facial Expression": "neutral",
+        "Gender": "1girl",
+        "Hair Color": "blonde_hair",
+        "Hair Length": "long_hair",
+        "Eyes": "blue_eyes",
+        "Accessories & Unique Traits": "ribbon",
+        "Dress & Clothing": "skirt, swimsuit",
+        "Hair Style": "hair_ornament"
+    }
+}
+time - 8.39 seconds
+acc - 11/12
+# Not caucasian 
+
+input - 6.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Ethnicity": "Caucasian",
+        "Hair Color": "brown",
+        "Hair Style": "short bob",
+        "Hair Length": "medium",
+        "Body Type": "average",
+        "Facial Expression": "neutral",
+        "Accessories & Unique Traits": "none",
+        "Gender": "1boy",
+        "Dress & Clothing": "scarf",
+        "Eyes": "brown_eyes"
+    }
+}
+time - 8.96 seconds
+acc - 12/12
+
+input - 7.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "child",
+        "Ethnicity": "Caucasian",
+        "Hair Style": "ponytail",
+        "Hair Length": "medium",
+        "Body Type": "average",
+        "Facial Expression": "surprised",
+        "Accessories & Unique Traits": "none",
+        "Gender": "1boy",
+        "Dress & Clothing": "scarf",
+        "Hair Color": "brown_hair",
+        "Eyes": "black_eyes"
+    }
+}
+time - 10.19 seconds
+acc - 12/12
+
+input - 8.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "teen",
+        "Ethnicity": "Asian",
+        "Hair Style": "ponytail",
+        "Body Type": "average",
+        "Facial Expression": "neutral",
+        "Gender": "1girl",
+        "Accessories & Unique Traits": "animal_ears, ribbon",
+        "Hair Color": "black_hair",
+        "Hair Length": "long_hair",
+        "Dress & Clothing": "school_uniform, skirt, jacket",
+        "Eyes": "red_eyes"
+    }
+}
+time - 9.16 seconds
+acc - 11/12
+
+input - 9.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Ethnicity": "Caucasian",
+        "Hair Color": "gray",
+        "Hair Style": "short bob",
+        "Hair Length": "long",
+        "Body Type": "average",
+        "Dress & Clothing": "traditional",
+        "Facial Expression": "sad",
+        "Gender": "1boy",
+        "Accessories & Unique Traits": "hat",
+        "Age": "old_man"
+    }
+}
+time - 6.85 seconds
+acc - 8/12
+# Gender for animated old women is an issue 
+
+input - 10.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Ethnicity": "Asian",
+        "Hair Style": "ponytail",
+        "Body Type": "average",
+        "Facial Expression": "neutral",
+        "Gender": "1girl",
+        "Dress & Clothing": "dress",
+        "Hair Color": "black_hair",
+        "Hair Length": "long_hair",
+        "Eyes": "red_eyes",
+        "Accessories & Unique Traits": "ribbon"
+    }
+}
+time - 11.17 seconds
+acc - 12/12
+
+
+input - 11.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Ethnicity": "Caucasian",
+        "Body Type": "average",
+        "Facial Expression": "neutral",
+        "Gender": "1girl",
+        "Hair Length": "long_hair",
+        "Dress & Clothing": "school_uniform, skirt, jacket",
+        "Accessories & Unique Traits": "hairband, ribbon",
+        "Eyes": "blue_eyes",
+        "Hair Color": "blonde_hair, white_hair",
+        "Hair Style": "bangs"
+    }
+}
+time - 10.79 seconds
+acc - 11/12 
+
+input - 12.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Ethnicity": "Caucasian",
+        "Hair Style": "ponytail",
+        "Body Type": "average",
+        "Facial Expression": "neutral",
+        "Gender": "1girl",
+        "Hair Color": "black_hair",
+        "Dress & Clothing": "dress",
+        "Eyes": "brown_eyes, black_eyes",
+        "Hair Length": "long_hair",
+        "Accessories & Unique Traits": "ribbon"
+    }
+}
+time - 6.84 seconds
+acc - 11/12
+
+input - 13.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Ethnicity": "Asian",
+        "Body Type": "average",
+        "Facial Expression": "neutral",
+        "Accessories & Unique Traits": "none",
+        "Gender": "1girl",
+        "Dress & Clothing": "kimono",
+        "Hair Color": "black_hair",
+        "Hair Style": "hair_ornament",
+        "Hair Length": "long_hair",
+        "Eyes": "purple_eyes"
+    }
+}
+time - 8.16 seconds
+acc - 12/12
+
+input - 14.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Ethnicity": "Caucasian",
+        "Hair Style": "ponytail",
+        "Body Type": "muscular",
+        "Facial Expression": "neutral",
+        "Gender": "1boy",
+        "Hair Length": "long_hair",
+        "Hair Color": "black_hair",
+        "Dress & Clothing": "jacket",
+        "Accessories & Unique Traits": "earrings",
+        "Eyes": "yellow_eyes"
+    }
+}
+time - 6.79 seconds
+acc - 11/12
+# Does't have a ponytail
+
+input - 15.jpg
+output - 
+{
+    "cropped_persons/cropped_person_0.jpg": {
+        "Art Style": "anime",
+        "Age": "young adult",
+        "Ethnicity": "Asian",
+        "Body Type": "average",
+        "Facial Expression": "neutral",
+        "Dress & Clothing": "swimsuit, jacket",
+        "Gender": "1girl",
+        "Accessories & Unique Traits": "sunglasses",
+        "Hair Color": "pink_hair",
+        "Hair Length": "long_hair",
+        "Hair Style": "bangs"
+    }
+}
+time - 8.03 seconds
+acc - 11/12 
+# body type should be curvy
