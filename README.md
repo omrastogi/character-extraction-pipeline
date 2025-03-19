@@ -2,7 +2,9 @@
 
 This project identifies characters in images using a combination tagging and a **Vision-Language Model (VLM)** for recognition.
 
-It includes two processing pipelines:
+![App Look and Feel](asset/app_screen.gif)
+
+It includes three processing pipelines:
 - **Pipeline 1 (VLM only)**: Directly classifies characters.
 - **Pipeline 2 (Tagger + VLM)**: First extracts tags using DeepDanbooru, then uses VLM for recognition.
 - **Pipeline 3 (Hierarchical Tag Classifier)**: First extracts tags using DeepDanbooru, then uses VLM for recognition.
@@ -58,12 +60,6 @@ python gradio_apps/gradio_pipe1_app2.py
 ```bash
 python gradio_apps/gradio_pipe2_app1.py
 ```
-### App Look and Feel
-<video controls>
-  <source src="asset/app_screen.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 
 | Input Image | Accuracy | Time (seconds) |
 |:------------|---------:|---------------:|
