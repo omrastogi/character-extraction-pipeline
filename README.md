@@ -76,3 +76,7 @@ python gradio_apps/gradio_pipe2_app1.py
 | 14          |       11 |          6.79  |
 | 15          |       11 |          8.03  |
 | **Average** |     10.8 |          8.77  |
+
+### Pipeline 3: Hierarchical Tag Classifier
+
+Explaination: https://excalidraw.com/#json=Y2cmssKYInlBvyamFVH9i,YbsOkhYupIQKbxu98DIh9g
